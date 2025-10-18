@@ -23,4 +23,4 @@
     ```
 
 This should have the docker container running Redis up and running. To verify we can either check the desktop application and see something like:
-![Docker Desktop showing Redis container running][readmeImgs/DockerContainer.png]
+![Docker Desktop showing Redis container running](readmeImgs/DockerContainer.png)
